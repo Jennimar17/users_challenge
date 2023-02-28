@@ -1,0 +1,43 @@
+.container {
+  text-align: center;
+}
+.title {
+  transform: translate(50%, -50%);
+  text-transform: uppercase;
+  font-family: "Montserrat", sans-serif;
+  font-size: 70px;
+  font-weight: 600;
+  text-shadow: 1px 1px 1px #919191, 1px 2px 1px #919191, 1px 3px 1px #919191,
+    1px 4px 1px #919191, 1px 5px 1px #919191, 1px 6px 1px #919191,
+    1px 7px 1px #919191, 1px 8px 1px #919191, 1px 9px 1px #919191,
+    1px 10px 1px #919191, 1px 18px 6px rgba(16, 16, 16, 0.4),
+    1px 22px 10px rgba(16, 16, 16, 0.2), 1px 25px 35px rgba(16, 16, 16, 0.2),
+    1px 30px 60px rgba(16, 16, 16, 0.4);
+}
+
+.table--users {
+  width: 60%;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.table th:first-child {
+  position: relative;
+}
+
+.modal {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+}
+
+.title--modal {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+.subtitle--modal {
+  font-size: medium;
+  font-weight: 200;
+}
