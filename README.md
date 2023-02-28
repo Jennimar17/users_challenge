@@ -14,16 +14,20 @@ The application is built with React and uses the following technologies:
 
 The application fetches data from two APIs:
 
-- JSONPlaceholder - A simple fake REST API for testing and prototyping.
-- Randomuser - A free, open-source API for generating random user data.
+- [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - A simple fake REST API for testing and prototyping.
+- [Randomuser](https://randomuser.me/) - A free, open-source API for generating random user data.
 
+The application has a hidden state variable containing the randomuser API key. To run the application, you will need to create an `.env` file in the root directory and add your own Randomuser API key to the file as follows:
+
+```sh
+API_KEY=your_api_key_here
+```
 
 ## Installation
 
 1. Clone the repository.
 2. Install dependencies using `npm install`.
 3. Start the development server using `npm start`.
-
 
 ## Usage
 
