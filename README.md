@@ -37,6 +37,10 @@ Once the server is running, you can view the app in your browser at http://local
 
 This application was created with the help of OpenAI's ChatGPT, who provided assistance to solve a problem related to making API calls, also to create this README and create the markdown format for it. ;)
 
+## Deploy
+
+- [Live Preview](https://mellow-creponne-c24b1b.netlify.app/)
+
 ## License
 
 This project is licensed under the MIT License.
